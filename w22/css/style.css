@@ -1,0 +1,69 @@
+body{
+	background-color: grey;
+	font-family: 'Coiny', sans-serif;
+
+}
+
+.page{
+	margin: 0 auto;
+	background-color: white; 
+	width: 50%;
+	height: 70%;
+}
+
+header{
+	text-align: center;
+}
+
+.title{
+	font-size: 20px;
+	line-height: 0px;
+}
+
+
+nav{
+	background-color: red;
+	height: 50px;
+}
+
+li{
+	list-style-type: none;
+	float: left;
+	margin-right: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	line-height: 50px;
+}
+
+p{
+	display: inline-block;
+	font-size: 14px;
+}
+
+input{
+	float: right;
+	margin-right: 20px;
+	width: 40%;
+	margin-top: 15px;
+}
+
+.submit{
+	width: 25%;
+	float: right;
+	margin-right: 210px;
+}
+
+.inputForm{
+	padding: 10px;
+}
+
+footer{
+	text-align: center;
+	background-color: lightgrey;
+	color: white;
+	margin-top: 25px;
+}
+
